@@ -14,6 +14,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             //Just a comment added
+            int j = 6;
             int i = 5;
 
             Console.WriteLine("Hello World 6!");
