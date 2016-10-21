@@ -10,6 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            //Just a comment added
             int i = 5;
             string minun_Oma_Nimi;
             string Minun_Oma_Nimi;
