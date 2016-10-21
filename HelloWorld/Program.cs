@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    class Program
+    public class Program
     {
+           public static string minun_Oma_Nimi;
+           public static string Minun_Oma_Nimi;
+
         static void Main(string[] args)
         {
             //Just a comment added
             int i = 5;
-            string minun_Oma_Nimi;
-            string Minun_Oma_Nimi;
+
             Console.WriteLine("Hello World 6!");
             heiKnokker();
             HeiKnokker();
@@ -23,12 +25,12 @@ namespace HelloWorld
             Console.ReadKey();
         }
 
-        static void heiKnokker()
+        public static void heiKnokker()
         {
 
         }
 
-        static void HeiKnokker() { }
+        public static void HeiKnokker() { }
 
     }
 }
