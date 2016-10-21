@@ -14,6 +14,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             //Just a comment added
+            int k = 7;
             int j = 6;
             int i = 5;
 
